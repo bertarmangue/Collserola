@@ -1,0 +1,59 @@
+PARCELA;DISTANCIA;ESPECIE;ESTRAT;NOMCOMU;QUANTITAT
+0;0;Ulex parviflorus;Arbustiva;Gatosa;2
+0;0;Pistacia lentiscus;Arbòria;Llentiscle;6
+0;0;Quercus coccifera;Arbustiva;Garric;5
+0;0;Viburnum tinus;Arbustiva / Mata ?;Marfull;4
+0;0;Erica arborea;Arbustiva;Bruc;4
+0;0;Arbutus unedo;Arbustiva;Arboç;1
+0;0;Galium aparine;Lianoide;Apegalosa;2
+0;0;Quercus suber;Arbòria;Alzina surera;2
+0;0;Cistus albidus;Arbustiva;Estepa blanca;2
+0;0;Dorycnium pentafilum;Herbàcia;Botja d'escombres;1
+0;0;Quercus ilex;Arbòria;Alzina  ;2
+0;0;Hedera helix;Lianoide;Heura;1
+0;0;Quercus cerrioides;Arbòria;Roure;2
+1;5;Quercus cerrioides;Arbòria;Roure;7
+1;5;Quercus suber;Arbòria;Alzina surera;4
+1;5;Viburnum tinus;Arbustiva / Mata ?;Marfull;6
+1;5;Pistacia lentiscus;Arbòria;Llentiscle;3
+1;5;Erica arborea;Arbustiva;Bruc;5
+1;5;Quercus ilex;Arbòria;Alzina  ;4
+1;5;Hedera helix;Lianoide;Heura;5
+1;5;Ruscus aculeatus;Arbustiva;Galzeran;1
+1;5;Arbutus unedo;Arbustiva;Arboç;2
+1;5;Lonicera implexa;Arbustiva;Mare de bosc;1
+1;5;Rubia peregrina;Lianoide;Rogeta;1
+1;5;Smilax aspera;Arbustiva;Aritja;1
+2;10;Erica arborea;Arbustiva;Bruc;2
+2;10;Quercus ilex;Arbòria;Alzina  ;7
+2;10;Quercus suber;Arbòria;Alzina surera;2
+2;10;Quercus cerrioides;Arbòria;Roure;4
+2;10;Pistacia lentiscus;Arbòria;Llentiscle;4
+2;10;Viburnum tinus;Arbustiva / Mata ?;Marfull;2
+2;10;Cistus albidus;Arbustiva;Estepa blanca;1
+2;10;Hedera helix;Lianoide;Heura;1
+2;10;Rubia peregrina;Lianoide;Rogeta;2
+3;15;Viburnum tinus;Arbustiva / Mata ?;Marfull;8
+3;15;Rubia peregrina;Lianoide;Rogeta;3
+3;15;Pistacia lentiscus;Arbòria;Llentiscle;2
+3;15;Erica arborea;Arbustiva;Bruc;7
+3;15;Quercus ilex;Arbòria;Alzina  ;5
+3;15;Smilax aspera;Arbustiva;Aritja;1
+3;15;Quercus cerrioides;Arbòria;Roure;3
+3;15;Hedera helix;Lianoide;Heura;3
+3;15;Arbutus unedo;Arbustiva;Arboç;1
+4;20;Hedera helix;Lianoide;Heura;6
+4;20;Quercus cerrioides;Arbòria;Roure;10
+4;20;Quercus ilex;Arbòria;Alzina  ;6
+4;20;Viburnum tinus;Arbustiva / Mata ?;Marfull;3
+4;20;Erica arborea;Arbustiva;Bruc;8
+4;20;Arbutus unedo;Arbustiva;Arboç;1
+4;20;Ruscus aculeatus;Arbustiva;Galzeran;1
+4;20;Cistus albidus;Arbustiva;Estepa blanca;3
+4;20;Lonicera implexa;Lianoide / Arbustiva;Mare de bosc;1
+5;25;Erica arborea;Arbustiva;Bruc;3
+5;25;Quercus cerrioides;Arbòria;Roure;2
+5;25;Hedera helix;Lianoide;Heura;4
+5;25;Quercus ilex;Arbòria;Alzina  ;13
+5;25;Viburnum tinus;Arbustiva / Mata ?;Marfull;4
+5;25;Cistus albidus;Arbustiva;Estepa blanca;2
