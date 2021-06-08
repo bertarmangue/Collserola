@@ -38,4 +38,6 @@ plot(x, y, xlab = "Distància (m)", ylab = "Espècies (nombre)", main= "Riquesa es
 
 ## Plot corresponent a l'exercici 5, el qual mostra quines espècies apareixen més a prop del camí i quines més lluny:
 
-plot(data$ESPECIE, data$DISTANCIA, xlab= "Espècies (nom)", ylab= "Distància (m)", main= "Espècies segons la distància")
+plot(data$ESPECIE, data$DISTANCIA, ylab= "Distància (m)", main= "Espècies segons la distància", las = 2)
+
+
